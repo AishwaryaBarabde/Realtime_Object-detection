@@ -60,6 +60,7 @@ Deployment using Flask or FastAPI
 Model optimization using ONNX or TensorRT
 
 Author
-Aishwarya BarabdeinkedIn: https://www.linkedin.com/in/aishwarya-barabde-b7a65222b
+Aishwarya Barabde
+LinkedIn: https://www.linkedin.com/in/aishwarya-barabde-b7a65222b
 
 GitHub: https://github.com/AishwaryaBarabde
